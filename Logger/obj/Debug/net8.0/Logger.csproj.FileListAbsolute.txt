@@ -1,0 +1,33 @@
+D:\proj\Logger\bin\Debug\net8.0\Logger.deps.json
+D:\proj\Logger\bin\Debug\net8.0\Logger.dll
+D:\proj\Logger\bin\Debug\net8.0\Logger.pdb
+D:\proj\Logger\obj\Debug\net8.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+D:\proj\Logger\obj\Debug\net8.0\Logger.AssemblyInfoInputs.cache
+D:\proj\Logger\obj\Debug\net8.0\Logger.AssemblyInfo.cs
+D:\proj\Logger\obj\Debug\net8.0\Logger.csproj.CoreCompileInputs.cache
+D:\proj\Logger\obj\Debug\net8.0\Logger.dll
+D:\proj\Logger\obj\Debug\net8.0\refint\Logger.dll
+D:\proj\Logger\obj\Debug\net8.0\Logger.pdb
+D:\proj\Logger\obj\Debug\net8.0\ref\Logger.dll
+D:\proj\Новая папка\Logger\bin\Debug\net8.0\Logger.deps.json
+D:\proj\Новая папка\Logger\bin\Debug\net8.0\Logger.dll
+D:\proj\Новая папка\Logger\bin\Debug\net8.0\Logger.pdb
+D:\proj\Новая папка\Logger\obj\Debug\net8.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+D:\proj\Новая папка\Logger\obj\Debug\net8.0\Logger.AssemblyInfoInputs.cache
+D:\proj\Новая папка\Logger\obj\Debug\net8.0\Logger.AssemblyInfo.cs
+D:\proj\Новая папка\Logger\obj\Debug\net8.0\Logger.csproj.CoreCompileInputs.cache
+D:\proj\Новая папка\Logger\obj\Debug\net8.0\Logger.dll
+D:\proj\Новая папка\Logger\obj\Debug\net8.0\refint\Logger.dll
+D:\proj\Новая папка\Logger\obj\Debug\net8.0\Logger.pdb
+D:\proj\Новая папка\Logger\obj\Debug\net8.0\ref\Logger.dll
+D:\proj\Новая папка\udpmessanger\Logger\bin\Debug\net8.0\Logger.deps.json
+D:\proj\Новая папка\udpmessanger\Logger\bin\Debug\net8.0\Logger.dll
+D:\proj\Новая папка\udpmessanger\Logger\bin\Debug\net8.0\Logger.pdb
+D:\proj\Новая папка\udpmessanger\Logger\obj\Debug\net8.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+D:\proj\Новая папка\udpmessanger\Logger\obj\Debug\net8.0\Logger.AssemblyInfoInputs.cache
+D:\proj\Новая папка\udpmessanger\Logger\obj\Debug\net8.0\Logger.AssemblyInfo.cs
+D:\proj\Новая папка\udpmessanger\Logger\obj\Debug\net8.0\Logger.csproj.CoreCompileInputs.cache
+D:\proj\Новая папка\udpmessanger\Logger\obj\Debug\net8.0\Logger.dll
+D:\proj\Новая папка\udpmessanger\Logger\obj\Debug\net8.0\refint\Logger.dll
+D:\proj\Новая папка\udpmessanger\Logger\obj\Debug\net8.0\Logger.pdb
+D:\proj\Новая папка\udpmessanger\Logger\obj\Debug\net8.0\ref\Logger.dll

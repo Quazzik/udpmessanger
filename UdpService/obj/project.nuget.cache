@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "68PfxAxR5QuZr0gLmvKxDgiZy3mLSOccw63KGDbzYojgIxZuHlmHYW6T1KCAhP9L8E8Sme/jZckmUBNX9KCGuQ==",
+  "success": true,
+  "projectFilePath": "D:\\proj\\Новая папка\\udpmessanger\\UdpService\\UdpService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yuako\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

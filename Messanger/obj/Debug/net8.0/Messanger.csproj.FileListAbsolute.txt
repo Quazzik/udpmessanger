@@ -1,0 +1,63 @@
+D:\proj\Messanger\bin\Debug\net8.0\Messanger.exe
+D:\proj\Messanger\bin\Debug\net8.0\Messanger.deps.json
+D:\proj\Messanger\bin\Debug\net8.0\Messanger.runtimeconfig.json
+D:\proj\Messanger\bin\Debug\net8.0\Messanger.dll
+D:\proj\Messanger\bin\Debug\net8.0\Messanger.pdb
+D:\proj\Messanger\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\proj\Messanger\bin\Debug\net8.0\Logger.dll
+D:\proj\Messanger\bin\Debug\net8.0\UdpService.dll
+D:\proj\Messanger\bin\Debug\net8.0\UdpService.pdb
+D:\proj\Messanger\bin\Debug\net8.0\Logger.pdb
+D:\proj\Messanger\obj\Debug\net8.0\Messanger.csproj.AssemblyReference.cache
+D:\proj\Messanger\obj\Debug\net8.0\Messanger.GeneratedMSBuildEditorConfig.editorconfig
+D:\proj\Messanger\obj\Debug\net8.0\Messanger.AssemblyInfoInputs.cache
+D:\proj\Messanger\obj\Debug\net8.0\Messanger.AssemblyInfo.cs
+D:\proj\Messanger\obj\Debug\net8.0\Messanger.csproj.CoreCompileInputs.cache
+D:\proj\Messanger\obj\Debug\net8.0\Messanger.csproj.CopyComplete
+D:\proj\Messanger\obj\Debug\net8.0\Messanger.dll
+D:\proj\Messanger\obj\Debug\net8.0\refint\Messanger.dll
+D:\proj\Messanger\obj\Debug\net8.0\Messanger.pdb
+D:\proj\Messanger\obj\Debug\net8.0\Messanger.genruntimeconfig.cache
+D:\proj\Messanger\obj\Debug\net8.0\ref\Messanger.dll
+D:\proj\Новая папка\Messanger\bin\Debug\net8.0\Messanger.exe
+D:\proj\Новая папка\Messanger\bin\Debug\net8.0\Messanger.deps.json
+D:\proj\Новая папка\Messanger\bin\Debug\net8.0\Messanger.runtimeconfig.json
+D:\proj\Новая папка\Messanger\bin\Debug\net8.0\Messanger.dll
+D:\proj\Новая папка\Messanger\bin\Debug\net8.0\Messanger.pdb
+D:\proj\Новая папка\Messanger\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\proj\Новая папка\Messanger\bin\Debug\net8.0\Logger.dll
+D:\proj\Новая папка\Messanger\bin\Debug\net8.0\UdpService.dll
+D:\proj\Новая папка\Messanger\bin\Debug\net8.0\UdpService.pdb
+D:\proj\Новая папка\Messanger\bin\Debug\net8.0\Logger.pdb
+D:\proj\Новая папка\Messanger\obj\Debug\net8.0\Messanger.csproj.AssemblyReference.cache
+D:\proj\Новая папка\Messanger\obj\Debug\net8.0\Messanger.GeneratedMSBuildEditorConfig.editorconfig
+D:\proj\Новая папка\Messanger\obj\Debug\net8.0\Messanger.AssemblyInfoInputs.cache
+D:\proj\Новая папка\Messanger\obj\Debug\net8.0\Messanger.AssemblyInfo.cs
+D:\proj\Новая папка\Messanger\obj\Debug\net8.0\Messanger.csproj.CoreCompileInputs.cache
+D:\proj\Новая папка\Messanger\obj\Debug\net8.0\Messanger.csproj.CopyComplete
+D:\proj\Новая папка\Messanger\obj\Debug\net8.0\Messanger.dll
+D:\proj\Новая папка\Messanger\obj\Debug\net8.0\refint\Messanger.dll
+D:\proj\Новая папка\Messanger\obj\Debug\net8.0\Messanger.pdb
+D:\proj\Новая папка\Messanger\obj\Debug\net8.0\Messanger.genruntimeconfig.cache
+D:\proj\Новая папка\Messanger\obj\Debug\net8.0\ref\Messanger.dll
+D:\proj\Новая папка\udpmessanger\Messanger\bin\Debug\net8.0\Messanger.exe
+D:\proj\Новая папка\udpmessanger\Messanger\bin\Debug\net8.0\Messanger.deps.json
+D:\proj\Новая папка\udpmessanger\Messanger\bin\Debug\net8.0\Messanger.runtimeconfig.json
+D:\proj\Новая папка\udpmessanger\Messanger\bin\Debug\net8.0\Messanger.dll
+D:\proj\Новая папка\udpmessanger\Messanger\bin\Debug\net8.0\Messanger.pdb
+D:\proj\Новая папка\udpmessanger\Messanger\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\proj\Новая папка\udpmessanger\Messanger\bin\Debug\net8.0\Logger.dll
+D:\proj\Новая папка\udpmessanger\Messanger\bin\Debug\net8.0\UdpService.dll
+D:\proj\Новая папка\udpmessanger\Messanger\bin\Debug\net8.0\UdpService.pdb
+D:\proj\Новая папка\udpmessanger\Messanger\bin\Debug\net8.0\Logger.pdb
+D:\proj\Новая папка\udpmessanger\Messanger\obj\Debug\net8.0\Messanger.csproj.AssemblyReference.cache
+D:\proj\Новая папка\udpmessanger\Messanger\obj\Debug\net8.0\Messanger.GeneratedMSBuildEditorConfig.editorconfig
+D:\proj\Новая папка\udpmessanger\Messanger\obj\Debug\net8.0\Messanger.AssemblyInfoInputs.cache
+D:\proj\Новая папка\udpmessanger\Messanger\obj\Debug\net8.0\Messanger.AssemblyInfo.cs
+D:\proj\Новая папка\udpmessanger\Messanger\obj\Debug\net8.0\Messanger.csproj.CoreCompileInputs.cache
+D:\proj\Новая папка\udpmessanger\Messanger\obj\Debug\net8.0\Messanger.csproj.CopyComplete
+D:\proj\Новая папка\udpmessanger\Messanger\obj\Debug\net8.0\Messanger.dll
+D:\proj\Новая папка\udpmessanger\Messanger\obj\Debug\net8.0\refint\Messanger.dll
+D:\proj\Новая папка\udpmessanger\Messanger\obj\Debug\net8.0\Messanger.pdb
+D:\proj\Новая папка\udpmessanger\Messanger\obj\Debug\net8.0\Messanger.genruntimeconfig.cache
+D:\proj\Новая папка\udpmessanger\Messanger\obj\Debug\net8.0\ref\Messanger.dll

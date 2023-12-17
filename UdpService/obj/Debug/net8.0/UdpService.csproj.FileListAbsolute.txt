@@ -1,0 +1,45 @@
+D:\proj\UdpService\bin\Debug\net8.0\UdpService.deps.json
+D:\proj\UdpService\bin\Debug\net8.0\UdpService.dll
+D:\proj\UdpService\bin\Debug\net8.0\UdpService.pdb
+D:\proj\UdpService\bin\Debug\net8.0\Logger.dll
+D:\proj\UdpService\bin\Debug\net8.0\Logger.pdb
+D:\proj\UdpService\obj\Debug\net8.0\UdpService.csproj.AssemblyReference.cache
+D:\proj\UdpService\obj\Debug\net8.0\UdpService.GeneratedMSBuildEditorConfig.editorconfig
+D:\proj\UdpService\obj\Debug\net8.0\UdpService.AssemblyInfoInputs.cache
+D:\proj\UdpService\obj\Debug\net8.0\UdpService.AssemblyInfo.cs
+D:\proj\UdpService\obj\Debug\net8.0\UdpService.csproj.CoreCompileInputs.cache
+D:\proj\UdpService\obj\Debug\net8.0\UdpService.csproj.CopyComplete
+D:\proj\UdpService\obj\Debug\net8.0\UdpService.dll
+D:\proj\UdpService\obj\Debug\net8.0\refint\UdpService.dll
+D:\proj\UdpService\obj\Debug\net8.0\UdpService.pdb
+D:\proj\UdpService\obj\Debug\net8.0\ref\UdpService.dll
+D:\proj\Новая папка\UdpService\bin\Debug\net8.0\UdpService.deps.json
+D:\proj\Новая папка\UdpService\bin\Debug\net8.0\UdpService.dll
+D:\proj\Новая папка\UdpService\bin\Debug\net8.0\UdpService.pdb
+D:\proj\Новая папка\UdpService\bin\Debug\net8.0\Logger.dll
+D:\proj\Новая папка\UdpService\bin\Debug\net8.0\Logger.pdb
+D:\proj\Новая папка\UdpService\obj\Debug\net8.0\UdpService.csproj.AssemblyReference.cache
+D:\proj\Новая папка\UdpService\obj\Debug\net8.0\UdpService.GeneratedMSBuildEditorConfig.editorconfig
+D:\proj\Новая папка\UdpService\obj\Debug\net8.0\UdpService.AssemblyInfoInputs.cache
+D:\proj\Новая папка\UdpService\obj\Debug\net8.0\UdpService.AssemblyInfo.cs
+D:\proj\Новая папка\UdpService\obj\Debug\net8.0\UdpService.csproj.CoreCompileInputs.cache
+D:\proj\Новая папка\UdpService\obj\Debug\net8.0\UdpService.csproj.CopyComplete
+D:\proj\Новая папка\UdpService\obj\Debug\net8.0\UdpService.dll
+D:\proj\Новая папка\UdpService\obj\Debug\net8.0\refint\UdpService.dll
+D:\proj\Новая папка\UdpService\obj\Debug\net8.0\UdpService.pdb
+D:\proj\Новая папка\UdpService\obj\Debug\net8.0\ref\UdpService.dll
+D:\proj\Новая папка\udpmessanger\UdpService\bin\Debug\net8.0\UdpService.deps.json
+D:\proj\Новая папка\udpmessanger\UdpService\bin\Debug\net8.0\UdpService.dll
+D:\proj\Новая папка\udpmessanger\UdpService\bin\Debug\net8.0\UdpService.pdb
+D:\proj\Новая папка\udpmessanger\UdpService\bin\Debug\net8.0\Logger.dll
+D:\proj\Новая папка\udpmessanger\UdpService\bin\Debug\net8.0\Logger.pdb
+D:\proj\Новая папка\udpmessanger\UdpService\obj\Debug\net8.0\UdpService.csproj.AssemblyReference.cache
+D:\proj\Новая папка\udpmessanger\UdpService\obj\Debug\net8.0\UdpService.GeneratedMSBuildEditorConfig.editorconfig
+D:\proj\Новая папка\udpmessanger\UdpService\obj\Debug\net8.0\UdpService.AssemblyInfoInputs.cache
+D:\proj\Новая папка\udpmessanger\UdpService\obj\Debug\net8.0\UdpService.AssemblyInfo.cs
+D:\proj\Новая папка\udpmessanger\UdpService\obj\Debug\net8.0\UdpService.csproj.CoreCompileInputs.cache
+D:\proj\Новая папка\udpmessanger\UdpService\obj\Debug\net8.0\UdpService.csproj.CopyComplete
+D:\proj\Новая папка\udpmessanger\UdpService\obj\Debug\net8.0\UdpService.dll
+D:\proj\Новая папка\udpmessanger\UdpService\obj\Debug\net8.0\refint\UdpService.dll
+D:\proj\Новая папка\udpmessanger\UdpService\obj\Debug\net8.0\UdpService.pdb
+D:\proj\Новая папка\udpmessanger\UdpService\obj\Debug\net8.0\ref\UdpService.dll
