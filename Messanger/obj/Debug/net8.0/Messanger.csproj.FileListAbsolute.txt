@@ -61,3 +61,4 @@ D:\proj\Новая папка\udpmessanger\Messanger\obj\Debug\net8.0\refint\Mes
 D:\proj\Новая папка\udpmessanger\Messanger\obj\Debug\net8.0\Messanger.pdb
 D:\proj\Новая папка\udpmessanger\Messanger\obj\Debug\net8.0\Messanger.genruntimeconfig.cache
 D:\proj\Новая папка\udpmessanger\Messanger\obj\Debug\net8.0\ref\Messanger.dll
+D:\proj\Новая папка\udpmessanger\Messanger\obj\Debug\net8.0\Messanger.sourcelink.json

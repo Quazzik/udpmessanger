@@ -43,3 +43,4 @@ D:\proj\Новая папка\udpmessanger\UdpService\obj\Debug\net8.0\UdpServic
 D:\proj\Новая папка\udpmessanger\UdpService\obj\Debug\net8.0\refint\UdpService.dll
 D:\proj\Новая папка\udpmessanger\UdpService\obj\Debug\net8.0\UdpService.pdb
 D:\proj\Новая папка\udpmessanger\UdpService\obj\Debug\net8.0\ref\UdpService.dll
+D:\proj\Новая папка\udpmessanger\UdpService\obj\Debug\net8.0\UdpService.sourcelink.json

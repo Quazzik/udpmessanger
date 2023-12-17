@@ -31,3 +31,4 @@ D:\proj\Новая папка\udpmessanger\Logger\obj\Debug\net8.0\Logger.dll
 D:\proj\Новая папка\udpmessanger\Logger\obj\Debug\net8.0\refint\Logger.dll
 D:\proj\Новая папка\udpmessanger\Logger\obj\Debug\net8.0\Logger.pdb
 D:\proj\Новая папка\udpmessanger\Logger\obj\Debug\net8.0\ref\Logger.dll
+D:\proj\Новая папка\udpmessanger\Logger\obj\Debug\net8.0\Logger.sourcelink.json
