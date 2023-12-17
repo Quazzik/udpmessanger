@@ -41,9 +41,9 @@ namespace Messanger
             while (!token.IsCancellationRequested)
             {
                 var newMessage = Console.ReadLine();
-                if (newMessage == "port") { GetNewPorts(); _udpService = new UdpService(_localPort, _remotePort); continue; }
+                if (newMessage == "port") { GetNewPorts(); _udpService = new UdpService(_localPort, _remotePort); Console.WriteLine("Порты изменены"); continue; }
                 if (newMessage == "exit") { cts.Cancel(); continue; }
-                var createdMessage = await _udpService.SendMessageAsync(username, newMessage);
+                await _udpService.SendMessageAsync(username, newMessage);
             }
         }
         static void ReadLine(out int port)

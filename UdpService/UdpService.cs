@@ -19,7 +19,7 @@ namespace UDPService
             _remotePort = remotePort;
         }
 
-        public async Task<MessageDto?> SendMessageAsync(string userName, string messageText)
+        public async Task SendMessageAsync(string userName, string messageText)
         {
             try
             {
@@ -36,12 +36,10 @@ namespace UDPService
                 var messageJsonStr = JsonConvert.SerializeObject(messageDto);
                 var messageBytes = messageJsonStr.GetBytes();
                 await sender.SendAsync(messageBytes);
-                return messageDto;
             }
             catch (Exception ex)
             {
                 await _logger.LogErrorAsync(ex.Message);
-                return null;
             }
         }
 
